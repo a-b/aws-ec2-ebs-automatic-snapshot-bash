@@ -1,6 +1,8 @@
 aws-ec2-ebs-automatic-snapshot-bash
 ===================================
 
+[![Join the chat at https://gitter.im/a-b/aws-ec2-ebs-automatic-snapshot-bash](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/a-b/aws-ec2-ebs-automatic-snapshot-bash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ####Bash script for Automatic EBS Snapshots and Cleanup on Amazon Web Services (AWS)
 
 Written by  **[AWS Consultants - Casey Labs Inc.] (http://www.caseylabs.com)**
